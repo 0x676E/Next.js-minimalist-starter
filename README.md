@@ -90,11 +90,9 @@ Nextjs-minimalist-starter
 │   └───📂api  
 │   │       📜api.ts
 │   │      
-│   │     
 │   └───📂Home
 │   │       📜Home.tsx
 │   │    
-│   │       
 │   📜_app.tsx
 │   📜index.tsx
 │        
