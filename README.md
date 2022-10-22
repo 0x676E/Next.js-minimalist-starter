@@ -68,6 +68,10 @@ The most wanted technologies and tools:
 Nextjs-minimalist-starter
 │
 └───📂.husky
+│      📜.gitignore
+│      📜commit-msg
+│      📜pre-commit
+│
 └───📂__tests__
 │    └───📂Home
 │        │   📂__snapshots__
